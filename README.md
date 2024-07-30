@@ -14,7 +14,7 @@ This algorithm will utilize the [VICAR](https://github.com/NASA-AMMOS/VICAR) ima
 
 # SBG-TIR OTTER L1 TB & RAD Data Products
 
-This is the main repository for the Suface Biology and Geology Thermal Infrared (SBG-TIR) level 3 & 4 evapotranspiration data product generation software. 
+This is the main repository for the Suface Biology and Geology Thermal Infrared (SBG-TIR) level 1 data product generation software. 
 
 Thomas Logan
 [Thomas.L.Logan@jpl.nasa.gov](mailto:Thomas.L.Logan@jpl.nasa.gov)<br>
